@@ -5,12 +5,12 @@ date: 2019-12-12 18:26:40
 category: 'notes'    
 tags:    
 - Python    
-- 框架    
+- Django    
 ---    
 * content    
 {:toc}    
     
-# Virtualenv
+Virtualenv
 
 
 
