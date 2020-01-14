@@ -299,7 +299,7 @@ def jia(a,b):
 - 三层继承结构使代码得到最大程度的复用，并且使得添加内容更加简单  
 - 如下图为常见的电商页面
 
-![scjcjg.png](/assets/blog/scjcjg.png)
+![scjcjg.png](/img/posts/assets/blog/scjcjg.png)
 
 #### 创建根级模板
 

@@ -16,10 +16,10 @@ future: true
 
 # SNS settings
 RSS: true
-weibo_username:     p/1005055739661018
+# weibo_username:     p/1005055739661018
 github_username:    caoyang7
-twitter_username:   mercyblitz
-qq_number:   510510280
+# twitter_username:   mercyblitz
+qq_number:   1553387882
 #facebook_username:  mercyblitz
 #linkedin_username:  firstname-lastname-idxxxx
 
