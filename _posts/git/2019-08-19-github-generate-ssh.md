@@ -17,7 +17,7 @@ tags: Git solution
 
 
 ### 1. 生成秘钥 
-$ `ssh-keygen -t rsa -C "fengming19981221@163.com" `
+$ `ssh-keygen -t rsa -C "caoyang529_7@163.com" `
 按3个回车，密码为空这里一般不使用密钥。 
 最后得到了两个文件：id_rsa和id_rsa. pub 在 ～下的.ssh文件夹中 
  

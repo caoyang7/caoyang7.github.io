@@ -9,4 +9,4 @@ I wrote Python/Linux/ front end /Java related articles in my blog, welcome to re
 
 Let's explore the amazing story of the code world!
 
-Email:`fengming19981221@163.com`
+Email:`caoyang529_7@163.com`

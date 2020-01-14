@@ -2,7 +2,7 @@
 title: caoyang7
 SEOTitle: 曹阳的技术博客
 header-img: img/home-bg.jpg
-email: fengming19981221@163.com
+email: caoyang529_7@163.com
 description: "关于程序、设计以及架构 | 曹阳，Javaer ，Software Engineer"
 keyword: "曹阳, mercyblitz, caoyang7, 曹阳的技术博客"
 url: "https://caoyang7.github.io"              # your host, for absolute URL
@@ -114,20 +114,12 @@ friends: [
         href: "https://zhengyupengzz.github.io/"
     },
     {
-        title: "jiesang",
-        href: "https://jiesangqaq.github.io"
-    },
-    {
-        title: "yueyang",
-        href: "https://1978413822.github.io/"
-    },
-    {
         title: "chenzan",
         href: "https://llzanz.github.io/"
     },
     {
-        title: "haha",
-        href: "https://caoyang7.github.io/"
+        title: "victor",
+        href: "https://victorfengming.github.io/"
     },
     {
         title: "rwj",
