@@ -1,60 +1,124 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that a
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: 曹阳的博客
-brief-intro: 仅用于学习和分享
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://caoyang7.github.io" # the base hostname & protocol for your site
-
-permalink: /:year/:month/:day/:title/
-
-# other links
-twitter_username: 
-facebook_username:
-github_username:  caoyang7
+title: caoyang7
+SEOTitle: 曹阳的技术博客
+header-img: img/home-bg.jpg
 email: caoyang529_7@163.com
-weibo_username: 
-zhihu_username:
-linkedIn_username: 
-dribbble_username:
+description: "关于程序、设计以及架构 | 曹阳，Javaer ，Software Engineer"
+keyword: "曹阳, mercyblitz, victor, 曹阳的技术博客"
+url: "https://caoyang7.gitee.io"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
-description_footer: 本站记录我IT之旅的沿途风景！
+post:
+  author: caoyang7
 
-# comments
-# two ways to comment, only choose one, and use your own short name
-# 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
-disqus_shortname: caoyang7
+# Publish posts or collection documents with a future date.
+future: true
 
-# statistic analysis 统计代码
-# 百度统计 id，将统计代码替换为自己的百度统计id，即
-# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
-# xxxxx字符串
-baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
-google_analytics_id: UA-72449510-4 # google 分析追踪id
+# SNS settings
+RSS: true
+# weibo_username:     p/1005055739661018
+github_username:    caoyang7
+# twitter_username:   mercyblitz
+qq_number:   1553387882
+#facebook_username:  mercyblitz
+#linkedin_username:  firstname-lastname-idxxxx
+
+
 
 # Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+# If you have timezone issue (e.g. #68) in China, uncomment to use this:
+#timezone: CN  
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+# make sure you have this gem installed
+# `$ gem install jekyll-paginate`
+plugins: [jekyll-paginate]
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
-
 kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+  input: GFM                            # use Github Flavored Markdown !important
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 
-# port
-# port: 1234
 
-# url
-category_dir: category/
-tag_dir: tag/
 
-# excerpt
-excerpt_separator: "\n\n\n\n"
+# Disqus settings
+disqus_username: mercyblitz
 
-# paginate
-gems: [jekyll-paginate]
-paginate: 6
+# Netease settings
+netease_comment: false
+
+
+
+# Analytics settings
+# Baidu Analytics 
+# ba_track_id: [your track id]
+
+# Google Analytics
+# ga_track_id: TODO            # Format: UA-xxxxxx-xx
+# ga_domain: TODO
+
+
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "大家好，我是曹阳"
+sidebar-avatar: /img/avatar-mecyblitz.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
+# MathJax rendering for layout:page (e.g. post preview)
+page-mathjax: true
+
+
+
+# Friends
+friends: [
+    {
+        title: "ttk",
+        href: "https://ttk1907.gitee.io/"
+    },
+    {
+        title: "yupeng",
+        href: "https://zhengyupengzz.github.io/"
+    },
+    {
+        title: "victorfengming",
+        href: "https://victorfengming.github.io"
+    },
+    {
+        title: "rwj",
+        href: "https://raoweijiapng.github.io/"
+    }
+]
