@@ -65,7 +65,7 @@ iv. 保存形式多样，可以保存成文本，也可以保存至数据库，�
 ```python
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# Created by victor
+# Created by caoyang7
 
 import requests
 import re
@@ -147,7 +147,7 @@ page_one()
 ```python
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# Created by victor
+# Created by caoyang7
 
 # 本模块的功能:<带有图形界面的妹子图爬虫程序>
 '''

@@ -117,7 +117,7 @@ if __name__ == '__main__':
 '''
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# Created by victor
+# Created by caoyang7
 '''
 # 本模块的功能:<异步演示demo>
 
@@ -138,7 +138,7 @@ def longIO(callback):
         print("开始耗时操作")
         time.sleep(3)
         print("结束耗时操作")
-        cb("victor is a wonderful man")
+        cb("caoyang7 is a wonderful man")
     threading.Thread(
         target=run,
         args=(callback,)
@@ -194,7 +194,7 @@ if __name__ == '__main__':
 '''
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# Created by victor
+# Created by caoyang7
 '''
 # 本模块的功能:<>
 
@@ -212,7 +212,7 @@ def longIO():
         time.sleep(3)
         try:
             global gen
-            gen.send("victor is wonderful!!!")
+            gen.send("caoyang7 is wonderful!!!")
         except StopIteration as e:
             pass
 
@@ -340,7 +340,7 @@ if __name__ == '__main__':
 '''
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# Created by victor
+# Created by caoyang7
 '''
 # 本模块的功能:<>
 
@@ -401,7 +401,7 @@ def longIO():
     time.sleep(3)
     print("结束耗时操作")
     # 结束耗时操作后的返回数据
-    yield "victor is a cool man"
+    yield "caoyang7 is a cool man"
 ```
 
 4. 被装饰函数定义

@@ -6,7 +6,7 @@ tags: web vue basis
 ### 初始化vue项目
 项目起名为`vue-playlist`
 ```JavaScript
-victor@asus:~/WebstormProjects/vuejs/vue_demo2$ vue init webpack vue-playlist
+caoyang7@asus:~/WebstormProjects/vuejs/vue_demo2$ vue init webpack vue-playlist
 ```
 确认项目名字,这里我们直接就一个回车,默认的名字不用改
 ```
@@ -49,7 +49,7 @@ npm WARN deprecated bfj-node4@5.3.1: Switch to the `bfj` package for fixes and n
 npm WARN deprecated flatten@1.0.2: I wrote this module a very long time ago; you should use something else.
 npm WARN deprecated browserslist@1.7.7: Browserslist 2 could fail on reading Browserslist >3.0 config used in other tools.
 
-> core-js@2.6.9 postinstall /home/victor/WebstormProjects/vuejs/vue_demo2/vue-playlist/node_modules/core-js
+> core-js@2.6.9 postinstall /home/caoyang7/WebstormProjects/vuejs/vue_demo2/vue-playlist/node_modules/core-js
 > node scripts/postinstall || echo "ignore"
 
 Thank you for using core-js ( https://github.com/zloirock/core-js ) for polyfilling JavaScript standard library!
@@ -61,7 +61,7 @@ The project needs your help! Please consider supporting of core-js on Open Colle
 Also, the author of core-js ( https://github.com/zloirock ) is looking for a good job -)
 
 
-> uglifyjs-webpack-plugin@0.4.6 postinstall /home/victor/WebstormProjects/vuejs/vue_demo2/vue-playlist/node_modules/webpack/node_modules/uglifyjs-webpack-plugin
+> uglifyjs-webpack-plugin@0.4.6 postinstall /home/caoyang7/WebstormProjects/vuejs/vue_demo2/vue-playlist/node_modules/webpack/node_modules/uglifyjs-webpack-plugin
 > node lib/post_install.js
 
 npm notice created a lockfile as package-lock.json. You should commit this file.
@@ -89,9 +89,9 @@ Documentation can be found at https://vuejs-templates.github.io/webpack
 ```
 进入项目文件夹中后,执行启动命令`npm run dev`
 ```js
-victor@asus:~/WebstormProjects/vuejs/vue_demo2/vue-playlist$ npm run dev
+caoyang7@asus:~/WebstormProjects/vuejs/vue_demo2/vue-playlist$ npm run dev
 
-> vue-playlist@1.0.0 dev /home/victor/WebstormProjects/vuejs/vue_demo2/vue-playlist
+> vue-playlist@1.0.0 dev /home/caoyang7/WebstormProjects/vuejs/vue_demo2/vue-playlist
 > webpack-dev-server --inline --progress --config build/webpack.dev.conf.js
 
  12% building modules 20/29 modules 9 active ...js/vue_demo2/vue-playlist/src/App.vue{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.

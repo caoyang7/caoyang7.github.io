@@ -256,7 +256,7 @@ class Application(tornado.web.Application):
     def __init__(self):
         handlers = [
             (r"/", index.IndexHandler),
-            (r"/sunck", index.SunckHandler,{'name':"victor",'age':19}),
+            (r"/sunck", index.SunckHandler,{'name':"caoyang7",'age':19}),
         ]
         super(Application,self).__init__(handlers)
 ```

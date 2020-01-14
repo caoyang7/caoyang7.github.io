@@ -9,7 +9,7 @@ tags: Python solution interview
 可以在编译器里面输入如下语句来查看python语言的设计哲学：
 
 ```python
-C:\Users\victor>python
+C:\Users\caoyang7>python
 Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import this

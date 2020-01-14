@@ -17,7 +17,7 @@ tags: Python background ubuntu
 
 ### 查看首先查看Python3默认版本:
 ```python
-victor@victor:/$ python3
+caoyang7@caoyang7:/$ python3
 Python 3.5.3 (default, Sep 27 2018, 17:25:39) 
 [GCC 6.3.0 20170516] on linux
 Type "help", "copyright", "credits" or "license" for more information.
@@ -25,19 +25,19 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 ### 搜索系统是否已经安装Python3.7:   
 
-victor@victor:/$ `which python3.7`  
+caoyang7@caoyang7:/$ `which python3.7`  
 `/usr/local/bin/python3.7`  
 
 这样通过which查看python3.7可执行文件的位置，这个目录后面要用
 
 ### 在当前用户下修改 Python3 版本：
-victor@victor:/$ `alias python3='/usr/local/bin/python3.7'`     
+caoyang7@caoyang7:/$ `alias python3='/usr/local/bin/python3.7'`     
 这里填入刚才查询到的路径  
 ### 一旦完成以上操作，重新登录或者重新加载 .bashrc 文件，使操作生效。  
-victor@victor:/$ `. ~/.bashrc`
+caoyang7@caoyang7:/$ `. ~/.bashrc`
 ### 然后就成了，检查一下
 ```
-victor@victor:/$ python3
+caoyang7@caoyang7:/$ python3
 Python 3.7.0 (default, Aug 30 2019, 14:02:26) 
 [GCC 6.3.0 20170516] on linux
 Type "help", "copyright", "credits" or "license" for more information.

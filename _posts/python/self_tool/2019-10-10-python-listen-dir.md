@@ -31,7 +31,7 @@ watchdog在不同的平台使用不同的方法进行文件检测。在init.py�
 ```python
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# Created by victor
+# Created by caoyang7
 
 # 本模块的功能:<检测文件夹变化>
 

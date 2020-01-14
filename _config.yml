@@ -1,15 +1,15 @@
 # Site settings
-title: victor
+title: caoyang7
 SEOTitle: 曹阳的技术博客
 header-img: img/home-bg.jpg
 email: fengming19981221@163.com
 description: "关于程序、设计以及架构 | 曹阳，Javaer ，Software Engineer"
-keyword: "曹阳, mercyblitz, victor, 曹阳的技术博客"
+keyword: "曹阳, mercyblitz, caoyang7, 曹阳的技术博客"
 url: "https://caoyang7.gitee.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 post:
-  author: victor
+  author: caoyang7
 
 # Publish posts or collection documents with a future date.
 future: true

@@ -185,7 +185,7 @@ class Ui_Form(object):
 
     # TODO 这个类中的方法用到了那个模块的
     def send_message(self):
-        name = "victor"
+        name = "caoyang7"
         # 获取输入框中的内容
         con = self.lineEdit.text()
         # 获取现在时间

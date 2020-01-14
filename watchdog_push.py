@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# Created by victor
+# Created by caoyang7
 
 # 本模块的功能:<检测文件夹变化>
 

@@ -148,13 +148,13 @@ settings = {
 # 安全cookie
 class SCookieHandler(RequestHandler):
     def get(self):
-        self.set_secure_cookie("victor","nice")
+        self.set_secure_cookie("caoyang7","nice")
         self.write("SCookieHandler page info tornado!")
 ```
 
 然后我们在浏览器中查看一下cookie的值
 ```python
-Set-Cookie: victor="2|1:0|10:1575853257|6:victor|8:bmljZQ
+Set-Cookie: caoyang7="2|1:0|10:1575853257|6:caoyang7|8:bmljZQ
 ==|ac4c19c8598fc7c7d07c1484f07a0cc8e1a1adb022d084bcc3d3d4
 75129fab63"; expires=Wed, 08 Jan 2020 01:00:57 GMT; Path=/
 ```
@@ -182,7 +182,7 @@ Set-Cookie: victor="2|1:0|10:1575853257|6:victor|8:bmljZQ
 # 获取安全cookie
 class GetSCookieHandler(RequestHandler):
     def get(self):
-        sc = self.get_secure_cookie("victor")
+        sc = self.get_secure_cookie("caoyang7")
         print(sc)
         self.write("getSCookieHandler page info tornado!")
         self.write(sc)
@@ -406,7 +406,7 @@ class SetXsrfCookieHandler(RequestHandler):
         // 发起ajax请求我们有很多种方式
         // 发起post请求我们有两种方式,一种是这个
         $.post("/postfile",
-            "_xsrf=" + getCookie("_xsrf") + "&username=" + "victor" + "&passwd=" + "123456",
+            "_xsrf=" + getCookie("_xsrf") + "&username=" + "caoyang7" + "&passwd=" + "123456",
             // 请求成功后的回调函数
             function (data) {
                 alert("ok\\(^o^)/~");
@@ -461,7 +461,7 @@ class SetXsrfCookieHandler(RequestHandler):
     function login() {
         // TODO 这块还是那么回事,数据可以通过DOM来动态获取
         data = {
-            "username": "victor",
+            "username": "caoyang7",
             "passwd": "123456",
             };
         // 我们需要把我们的数据给他变成一个字符串
@@ -593,7 +593,7 @@ class LoginHandler(RequestHandler):
         name = self.get_argument("username")
         passwd = self.get_argument("passwd")
         # TODO 这里还是把账号和密码写死了
-        if name == "victor" and passwd == "123456":
+        if name == "caoyang7" and passwd == "123456":
             # 这个玩意代表从哪个页面跳来的,处理完了
             # 要是没毛病,我还得给你发到那里去
             next = self.get_argument("next", "/")
