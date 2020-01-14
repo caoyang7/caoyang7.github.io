@@ -11,7 +11,7 @@ jetbrains系列的IDE被认为是业内最强大的集成开发环境
 
 如有需要可以自行下载:
 
-[victorfengming/jetbrains_settings](https://github.com/victorfengming/jetbrains_settings)
+[caoyang7/jetbrains_settings](https://github.com/caoyang7/jetbrains_settings)
 
 ![jetbrains_settings](/img/posts/ide/jetbrains_settings.png)
 

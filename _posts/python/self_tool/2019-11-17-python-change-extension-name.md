@@ -62,7 +62,7 @@ def openDir(filePath):  # 递归文件夹
 
 if __name__ == '__main__':
 
-    rootDir = 'D:\\PycharmProjects\\victorfengming.github.io\\_posts'  # 根目录
+    rootDir = 'D:\\PycharmProjects\\caoyang7.github.io\\_posts'  # 根目录
     pathDir = os.listdir(rootDir)  # 列出根目录下所有内容
 
     for allDir in pathDir:  # 遍历列表

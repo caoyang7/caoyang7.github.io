@@ -12,7 +12,7 @@ tags: Python solution web django
 
 
 # 项目地址
-gitee:https://gitee.com/victorfengming/edu_platform_django
+gitee:https://gitee.com/caoyang7/edu_platform_django
 
 
 

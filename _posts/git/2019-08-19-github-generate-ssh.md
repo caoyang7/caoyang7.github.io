@@ -35,7 +35,7 @@ $ `ssh-keygen -t rsa -C "fengming19981221@163.com" `
 设置--》部署秘钥--》添加部署秘钥  
 
 ### 5. 克隆SSH协议的存储库   
-`git clone git@github.com:/victorfengming.github.io.git`
+`git clone git@github.com:/caoyang7.github.io.git`
 后面根据用户名不同，ssh协议下的url也不一样
 
 ### 6. 推他就完了   

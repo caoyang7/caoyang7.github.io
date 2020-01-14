@@ -45,7 +45,7 @@ tags: Java basis note
     
 ### 作业实现
 #### 项目地址:
-https://github.com/victorfengming/xdl_javaweb       
+https://github.com/caoyang7/xdl_javaweb       
 #### 采用技术:
 - JDBC  + 连接池
 - Tomcat  +   Servlet   

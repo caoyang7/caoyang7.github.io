@@ -46,7 +46,7 @@ Cloud Native 应用架构随着云技术的发展受到业界特别重视和关�
 
 ## 自我介绍
 
-马昕曦（小明哥），阿里巴巴中间件技术专家，十余年 Java EE 从业经验，Dubbo 维护者、架构师以及微服务布道师。目前主要负责阿里巴巴集团微服务技术实施、架构衍进、基础设施构建等。重点关注云计算、微服务以及软件架构等领域。通过 SUN Java（SCJP、SCWCD、SCBCD）以及 Oracle OCA 等的认证。
+马昕曦（曹阳），阿里巴巴中间件技术专家，十余年 Java EE 从业经验，Dubbo 维护者、架构师以及微服务布道师。目前主要负责阿里巴巴集团微服务技术实施、架构衍进、基础设施构建等。重点关注云计算、微服务以及软件架构等领域。通过 SUN Java（SCJP、SCWCD、SCBCD）以及 Oracle OCA 等的认证。
 
 
 
@@ -87,7 +87,7 @@ Cloud Native 应用架构随着云技术的发展受到业界特别重视和关�
 
 
 
-其中还包括 Redis 和 Apache Curator，前者是 Dubbo 的服务发现实现方案之一，然而小明哥并不建议使用 Redis 作为注册中心，还是保持它缓存中间件的单纯性较好。而 Curator 作为 Zookeeper Java 客户端类库，它不但可用在 Dubbo，而且其扩展项目 Curator Service Discovery 也是 Spring Cloud 整合 Zookeeper 作为服务发现的关键基础设施。或许大家思考以上方案应该如何选型的问题。
+其中还包括 Redis 和 Apache Curator，前者是 Dubbo 的服务发现实现方案之一，然而曹阳并不建议使用 Redis 作为注册中心，还是保持它缓存中间件的单纯性较好。而 Curator 作为 Zookeeper Java 客户端类库，它不但可用在 Dubbo，而且其扩展项目 Curator Service Discovery 也是 Spring Cloud 整合 Zookeeper 作为服务发现的关键基础设施。或许大家思考以上方案应该如何选型的问题。
 
 
 
@@ -171,7 +171,7 @@ Zookeeper 即可是 Spring Cloud 注册中心，又能作为 Dubbo 注册中心�
 
 > [1.1.7. Performance vs scale](https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/web-reactive.html#webflux-performance)
 >
-> Performance has many characteristics and meanings. **Reactive and non-blocking generally do not make applications run faster**. They can, in some cases, for example if using the `WebClient` to execute remote calls in parallel. **On the whole it requires more work to do things the non-blocking way and that can increase slightly the required processing time**.
+> Performance has many characteristics and meanings. **Reactive and non-blocking generally do not make applications run faster**. They can, in some cases, for example if using the `WebClient` to execute remote calls in parallel. **On the whole it requires more work to do things the non-blocking way and that can increase slightly the required processing time**.
 >
 > > 资源地址：https://docs.spring.io/spring/docs/5.0.7.RELEASE/spring-framework-reference/web-reactive.html#webflux-performance
 
@@ -290,7 +290,7 @@ CNCF 体系作为目前最热门的架构选型之一，基本上围绕着 Kuber
 
 ![幻灯片16](/img/assets/幻灯片16.jpg)
 
-在 Dubbo 架构体系时，我们曾提到编程模型的变化。从 Dubbo `2.5.8` 开始，注解驱动和外部化配置均已得到支持。同时，Dubbo 已经合并 Dubbox 代码，Java JAX-RS 标准得到了支持，目前业界事实的 REST 标准 Spring Web MVC 正在同步开发。Reactive 的支持也在同步进行，小明哥还得友好地提醒一下各位，对于 Reactive 的期望不应该过分的关注性能的提升。
+在 Dubbo 架构体系时，我们曾提到编程模型的变化。从 Dubbo `2.5.8` 开始，注解驱动和外部化配置均已得到支持。同时，Dubbo 已经合并 Dubbox 代码，Java JAX-RS 标准得到了支持，目前业界事实的 REST 标准 Spring Web MVC 正在同步开发。Reactive 的支持也在同步进行，曹阳还得友好地提醒一下各位，对于 Reactive 的期望不应该过分的关注性能的提升。
 
 
 
@@ -816,4 +816,4 @@ mercyblitz$ curl http://localhost:8080/sayHello?name=Hello
 * [Prometheus 官网](https://prometheus.io/)：https://prometheus.io/
 * [OpenTsdb 官网](http://opentsdb.net/)：http://opentsdb.net/
 * [Grafana 官网](https://grafana.com/)：https://grafana.com/
-* [小明哥 Github](https://github.com/mercyblitz)：https://github.com/mercyblitz 
+* [曹阳 Github](https://github.com/mercyblitz)：https://github.com/mercyblitz 
