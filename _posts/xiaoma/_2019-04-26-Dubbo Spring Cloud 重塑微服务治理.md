@@ -455,7 +455,7 @@ HTTP 响应为：
 ## [新书推荐](https://item.jd.com/12570242.html)
 
 
-本书全名为[《Spring Boot 编程思想》](https://caoyang7.gitee.io/books/thinking-in-spring-boot/)，是以 Spring Boot 2.0 为讨论的主线，讨论的范围将涵盖 Spring Boot 1.x 的所有版本，以及所关联的 Spring Framework 版本，致力于：
+本书全名为[《Spring Boot 编程思想》](https://caoyang7.github.io/books/thinking-in-spring-boot/)，是以 Spring Boot 2.0 为讨论的主线，讨论的范围将涵盖 Spring Boot 1.x 的所有版本，以及所关联的 Spring Framework 版本，致力于：
 - 场景分析：掌握技术选型
 - 系统学习：拒绝浅尝辄止
 - 重视规范：了解发展趋势
@@ -502,7 +502,7 @@ HTTP 响应为：
 
 ## 关于作者
 
-曹阳，Java 劝退师，Apache 和 Spring Cloud 等知名开源架构成员，[点击查看详情](https://caoyang7.gitee.io/about/)。
+曹阳，Java 劝退师，Apache 和 Spring Cloud 等知名开源架构成员，[点击查看详情](https://caoyang7.github.io/about/)。
 
 ---
 [^1]: Spring Cloud provides tools for developers to quickly build some of the common patterns in distributed systems (e.g. configuration management, service discovery, circuit breakers, intelligent routing, micro-proxy, control bus, one-time tokens, global locks, leadership election, distributed sessions, cluster state). - https://spring.io/projects/spring-cloud

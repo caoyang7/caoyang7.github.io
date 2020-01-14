@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: fengming19981221@163.com
 description: "关于程序、设计以及架构 | 曹阳，Javaer ，Software Engineer"
 keyword: "曹阳, mercyblitz, caoyang7, 曹阳的技术博客"
-url: "https://caoyang7.gitee.io"              # your host, for absolute URL
+url: "https://caoyang7.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 post:
@@ -107,7 +107,7 @@ page-mathjax: true
 friends: [
     {
         title: "ttk",
-        href: "https://ttk1907.gitee.io/"
+        href: "https://ttk1907.github.io/"
     },
     {
         title: "yupeng",

@@ -21,4 +21,4 @@ tags: Linux solution ubuntu system
 这里设置安装位置，语音，驱动等配置参数
 等待安装成功即可
 
-关于双显卡不能进入ubuntu系统的解决方案,可以参考[师哥](https://ttk1907.gitee.io/)的[入坑兄弟会第一天](https://ttk1907.gitee.io/2019/08/14/xiongdihui-one-daily/)相关内容
+关于双显卡不能进入ubuntu系统的解决方案,可以参考[师哥](https://ttk1907.github.io/)的[入坑兄弟会第一天](https://ttk1907.github.io/2019/08/14/xiongdihui-one-daily/)相关内容

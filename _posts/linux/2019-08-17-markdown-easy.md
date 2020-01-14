@@ -44,11 +44,11 @@ Typora 支持 MacOS 、Windows、Linux 平台，且包含多种主题，编辑�
 Typora 官网：https://typora.io/
 
 ### 最最关键的部分
-[天凯同学](https://ttk1907.gitee.io/)整理的markdown的一些demo
+[天凯同学](https://ttk1907.github.io/)整理的markdown的一些demo
 
 由于他写的比较全面，这里小编就给出他的链接供大家学习参考
 
-[Markdown实例](https://ttk1907.gitee.io/2019/08/16/markdown-to-application/)
+[Markdown实例](https://ttk1907.github.io/2019/08/16/markdown-to-application/)
 
 大家可以去参考参考，也可以关注他
 

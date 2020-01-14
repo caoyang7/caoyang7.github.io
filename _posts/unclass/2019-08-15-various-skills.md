@@ -23,7 +23,7 @@ tags: skills entertainment
 ### 系统相关
 
 ### 快捷键技巧
-1. [ttk1907](https://ttk1907.gitee.io/)问：        你是怎么往后删的？
+1. [ttk1907](https://ttk1907.github.io/)问：        你是怎么往后删的？
 
     答：
         Backspace往前面删除
@@ -37,7 +37,7 @@ tags: skills entertainment
 
         不仅编辑器中可以这样，比如说我们在终端中敲命令后执行的文件，也可以使用tab键快速补全
 
-3. [ttk1907](https://ttk1907.gitee.io/)问：        怎么才能在终端中输入之前输入的命令        
+3. [ttk1907](https://ttk1907.github.io/)问：        怎么才能在终端中输入之前输入的命令        
 
     答：
         你之前输入成功的命令
@@ -51,7 +51,7 @@ tags: skills entertainment
     Ubuntu的终端中Ctrl+shift+‘+’能够进行字体的放大，Ctrl+‘-’能够减小字体  
 
 ### 其他不太会分类的        
-1. [ttk1907](https://ttk1907.gitee.io/)问：        init是啥玩意
+1. [ttk1907](https://ttk1907.github.io/)问：        init是啥玩意
     答：
         init是initial的简单写法
 

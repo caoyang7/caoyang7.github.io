@@ -38,7 +38,7 @@
 [^10]:  Handling streams of data—especially “live” data whose volume is not predetermined - https://github.com/reactive-streams/reactive-streams-jvm#goals-design-and-scope
 [^11]: Backpressure is an integral part of this model in order to allow the queues which mediate between threads to be bounded. The benefits of asynchronous processing would be negated if the backpressure signals were synchronous (see also the [Reactive Manifesto](http://reactivemanifesto.org/)), therefore care has been taken to mandate fully non-blocking and asynchronous behavior of all aspects of a Reactive Streams implementation. - https://github.com/reactive-streams/reactive-streams-jvm#goals-design-and-scope
 [^12]: RxJava Scheduler - http://reactivex.io/documentation/scheduler.html, Reactor Schedulers : https://projectreactor.io/docs/core/release/reference/#schedulers
-[^13]: 《Reactive Programming 一种技术，各自表述》：https://caoyang7.gitee.io/2018/07/25/Reactive-Programming-一种技术-各自表述
+[^13]: 《Reactive Programming 一种技术，各自表述》：https://caoyang7.github.io/2018/07/25/Reactive-Programming-一种技术-各自表述
 [^14]:  1.1.6. Performance - https://docs.spring.io/spring/docs/current/spring-framework-reference/web-reactive.html#webflux-performance
 [^15]:JHipster -https://www.jhipster.tech/
 [^16]: 《Spring 5 WebFlux: Performance tests》- https://blog.ippon.tech/spring-5-webflux-performance-tests
@@ -48,4 +48,4 @@
 [^20]: https://space.bilibili.com/2494318
 [^21]: https://www.youtube.com/channel/UCmxVT2rkFwDX1tPpVDPJQaQ
 [^22]:《游褒禅山记》，王安石
-[^23]:曹阳，[Java 劝退师](https://www.douyu.com/mercyblitz)，[Apache Dubbo](https://dubbo.apache.org/) PPMC、[Spring Cloud Alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) 项目架构师 - https://caoyang7.gitee.io/about/
+[^23]:曹阳，[Java 劝退师](https://www.douyu.com/mercyblitz)，[Apache Dubbo](https://dubbo.apache.org/) PPMC、[Spring Cloud Alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba) 项目架构师 - https://caoyang7.github.io/about/

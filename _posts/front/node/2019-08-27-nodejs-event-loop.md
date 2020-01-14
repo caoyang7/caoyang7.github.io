@@ -96,7 +96,7 @@ $ node main.js
 
 接下来让我们来重新看下前面的实例，创建一个 demo.txt ,文件内容如下：
 
-`小明的博客的首页地址 » https://caoyang7.gitee.io/#blog `
+`小明的博客的首页地址 » https://caoyang7.github.io/#blog `
 
 创建 main.js 文件，代码如下：
 
@@ -120,7 +120,7 @@ console.log("程序执行完毕");
 执行以上代码，执行结果如下：
 ```JavaScript
 程序执行完毕
-小明的博客的首页地址 » https://caoyang7.gitee.io/#blog 
+小明的博客的首页地址 » https://caoyang7.github.io/#blog 
 ```
 接下来我们删除 demo.txt 文件，执行结果如下所示：
 ```JavaScript
