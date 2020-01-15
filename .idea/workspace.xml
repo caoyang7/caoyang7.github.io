@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca78bb85-722e-41ae-b35b-4c14a7b1a1bd" name="Default Changelist" comment="" />
-    <list id="b519fb99-f2e8-41cd-915d-59d73dfa95be" name="Revert &quot;pink老师vue，总结兄弟会官网项目&quot;" comment="Revert &quot;pink老师vue，总结兄弟会官网项目&quot;&#10;&#10;This reverts commit a6d34f26">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-24-axios.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/1998-09-05-看不懂的单词.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/1998-09-05-看不懂的单词.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/1998-11-07-链接.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/1998-11-07-链接.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-11-01-Vue.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-01-Vue.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-12-21-兄弟会项目.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-21-兄弟会项目.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-12-29-weekly20.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-29-weekly20.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/posts/2019-11-01-Vue官方.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/posts/2019-11-01-Vue官方.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/posts/2019-11-05-B站锤子.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/posts/2019-11-05-B站锤子.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/posts/2019-11-05-Vue组件.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/posts/2019-11-05-Vue组件.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/posts/2019-11-06-Vue问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/posts/2019-11-06-Vue问题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/posts/2019-12-27-vue-pink.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/posts/2019-12-27-vue-pink.md" afterDir="false" />
-    </list>
+    <list id="b519fb99-f2e8-41cd-915d-59d73dfa95be" name="Revert &quot;pink老师vue，总结兄弟会官网项目&quot;" comment="Revert &quot;pink老师vue，总结兄弟会官网项目&quot;&#10;&#10;This reverts commit a6d34f26" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +28,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -64,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579049791753</updated>
-      <workItem from="1579049793507" duration="730000" />
+      <workItem from="1579049793507" duration="1180000" />
     </task>
     <task id="LOCAL-00001" summary="回">
       <created>1579050320955</created>
