@@ -1,35 +1,7 @@
-# caoyang7.github.io
-我的个人博客
+# 曹阳的技术博客 [https://caoyang7.github.io/](https://caoyang7.github.io/)
 
+欢迎来到曹阳的技术博客，这里将进行学习经验的分享以及各种问题的解决方案的分享等。
 
-
-
-# 目录结构
-`_drafts` 草稿
-
-`_includes` 就像vue中的组件，每个页面都要用到的小功能，如：回到顶部、分类、导航、页脚、分页、标签
-
-`layouts` 布局
-
-`_posts` 博客
-
-`_sass` 样式
-
-`_assets` 图片
-
-`css` 主样式，全注释，可能是用来导sass的
-
-`js` 脚本文件控制动作的
-
-`page` 导航那几个子页面的布局
-
-`_config.yml` 配置文件，写个人信息的
-
-`index.html` 首页布局 
-
-
-
-
-
+**博客将不定期更新，请小伙伴们随时关注哦！**
 
 
