@@ -32,23 +32,23 @@ tags:
 
 ### B/S和C/S结构
 
-![csbs.png](/img/posts/assets/blog/csbs.png)
+![csbs.png](/assets/blog/csbs.png)
 
 1. web1.0
 
 开始于1994年,静态网站,只能看不能写,没有交互
 
-![web1.0.png](/img/posts/assets/blog/web1.0.png)
+![web1.0.png](/assets/blog/web1.0.png)
 
 2. web2.0
 
 始于2004年3月,动态网站,最直接的体现就是我们现在使用的商场,论坛,微博等
 
-![web2.0.png](/img/posts/assets/blog/web2.0.png)
+![web2.0.png](/assets/blog/web2.0.png)
 
 ### Web应用结构 及 工作原理
 
-![webjg.png](/img/posts/assets/blog/webjg.png)
+![webjg.png](/assets/blog/webjg.png)
 
 
 ## 二,Web框架
@@ -122,7 +122,7 @@ tags:
 
 ## 四,Django的开发版本
 
-![release-roadmap.png](/img/posts/assets/blog/release-roadmap.png)
+![release-roadmap.png](/assets/blog/release-roadmap.png)
 
 ## 五,Django安装
 
@@ -220,7 +220,7 @@ ALLOWED_HOSTS = ['192.168.194.132']
 
 ## 三,浏览器访问
 
-![llqfw.png](/img/posts/assets/blog/llqfw.png)
+![llqfw.png](/assets/blog/llqfw.png)
 
 
 
