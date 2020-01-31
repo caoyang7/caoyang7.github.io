@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee81e91f-4f7a-44b9-8d1d-2ae550e16044" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/caoyang7.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-11-05-B站锤子.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-05-B站锤子.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579072433990</updated>
       <workItem from="1579072441280" duration="777000" />
+      <workItem from="1580436048136" duration="275000" />
     </task>
     <task id="LOCAL-00001" summary="我要回来">
       <created>1579072647481</created>
@@ -87,7 +83,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
