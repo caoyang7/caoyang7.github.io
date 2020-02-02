@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "程序员必须掌握哪些算法"
+title: "PHP语法小结"
 date: 2020-02-02 18:26:40
 category: 'essays'
 tags:

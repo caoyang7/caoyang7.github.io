@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "程序员必须掌握哪些算法"
+title: "deepin安装PHP环境"
 date: 2020-02-02 18:26:40
-category: 'essays'
+category: 'installation'
 tags:
 - PHP
+- Linux
+- 工具
 ---
 * content
 {:toc}
