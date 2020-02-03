@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Courseware
-permalink: /courseware/
+title: About
+permalink: /about/
 icon: heart
 type: page
 ---
