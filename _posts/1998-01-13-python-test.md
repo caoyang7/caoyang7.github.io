@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Python基础自测"
-date: 2222-01-13 13:26:40
+date: 1998-01-13 13:26:40
 category: 'notes'
 tags:
 - 考试
