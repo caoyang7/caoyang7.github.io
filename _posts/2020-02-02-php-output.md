@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "程序员必须掌握哪些算法"
+title: "PHP输出语句的区别"
 date: 2020-02-02 18:26:40
 category: 'essays'
 tags:
@@ -190,7 +190,7 @@ arg1、arg2、arg++ 参数将被插入到主字符串中的百分号（%）符�
 
 ##### 语法
 
-<table class="dataintable" style="height: 543px; width: 1233px;">
+<table class="dataintable" style="height: 543px; width: 795px;">
 <tbody>
 <tr><th>参数</th><th>描述</th></tr>
 <tr>
