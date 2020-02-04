@@ -30,13 +30,13 @@ tags:
 > npm install -g vue-cli  
 
 # P22. 脚手架创建 、使用webstorm打开浏览了解具体内容
-### 创建脚手架  
+1. 创建脚手架  
 > vue init webpack vueproject  
 > 项目名称,项目描述,作者等4个回车  
 > 只安装vue-router,其他全是n  
 > 使用npm来安装,y  
 
-### 运行项目  
+ 运行项目  
 > cd vueproject  
 > npm run dev  
 
