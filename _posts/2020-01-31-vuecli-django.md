@@ -137,10 +137,11 @@ tags:
 ### 修改settings.py
 1. 允许所有主机访问`ALLOWED_HOSTS = ['*']`  
 2. 注释掉`'django.middleware.csrf.CsrfViewMiddleware',`  
-3. 语言改成中文`LANGUAGE_CODE = 'zh-hans'`  
-4. 时区改为上海`TIME_ZONE = 'Asia/ShangHai'`  
-5. 运行项目`python manage.py runserver`  
-6. 静态文件改为前后端分离的`STATIC_URL = '/api/static/'`  
+3. 语言改成中文`LANGUAGE_CODE = 'zh-Hans'`  
+4. 时区改为上海`TIME_ZONE = 'Asia/Shanghai'`  
+5. `USE_TZ = False`
+6. 运行项目`python manage.py runserver`  
+7. 静态文件改为前后端分离的`STATIC_URL = '/api/static/'`  
 
 ### 配置URL路由
 1. 总路由  

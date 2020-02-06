@@ -34,6 +34,7 @@ type: page
 [小斌](https://tongzebin.github.io/) \|
 [杰宝](https://jiesangqaq.github.io/) \|
 [佳兴](https://xjx19970831.github.io/) \|
-[小老弟](https://wxy20170906.github.io/)
+[王新阳](https://wxy20170906.github.io/) \|
+[周旭](https://gusijun.github.io)
 
 {% include comments.html %}
