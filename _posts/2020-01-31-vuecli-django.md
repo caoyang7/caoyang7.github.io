@@ -36,7 +36,7 @@ tags:
 > 只安装vue-router,其他全是n  
 > 使用npm来安装,y  
 
- 运行项目  
+2. 运行项目  
 > cd vueproject  
 > npm run dev  
 
