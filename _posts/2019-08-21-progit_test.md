@@ -2,7 +2,7 @@
 layout: post
 title: "ProGit_test"
 date: 2019-8-19 13:26:40
-category: 'notes'
+
 tags:
 - 考试
 - Git

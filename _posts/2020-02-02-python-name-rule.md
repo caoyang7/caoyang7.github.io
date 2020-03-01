@@ -2,7 +2,7 @@
 layout: post
 title: "Python的编码命名规则"
 date: 2020-02-02 18:26:40
-category: 'essays'
+
 tags:
 - Python
 ---

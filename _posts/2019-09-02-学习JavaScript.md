@@ -2,7 +2,7 @@
 layout: post
 title: "学习JavaScript"
 date: 2019-9-02 13:26:40
-category: 'notes'
+
 tags:
 - JS
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Python自动推博客"
 date: 2019-10-10 13:26:40
-category: 'essays'
+
 tags:
 - Python
 - Git

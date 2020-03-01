@@ -2,7 +2,7 @@
 layout: post    
 title: "Model模型"    
 date: 2019-12-13 18:26:40    
-category: 'notes'    
+    
 tags:    
 - Python    
 - Django    

@@ -2,7 +2,7 @@
 layout: post
 title: "bootstrap的学习"
 date: 2019-9-23 13:26:40
-category: 'notes'
+
 tags:
 - 前端
 ---

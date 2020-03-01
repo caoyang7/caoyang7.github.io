@@ -2,7 +2,7 @@
 layout: post
 title: "CSS中id与class 命名规则及编码的6个最佳习惯"
 date: 2020-02-02 18:26:40
-category: 'essays'
+
 tags:
 - 前端
 - 规范

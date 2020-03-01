@@ -2,7 +2,7 @@
 layout: post
 title: "Windows下git"
 date: 2019-10-10 13:26:40
-category: 'installation'
+
 tags:
 - 工具
 - Git

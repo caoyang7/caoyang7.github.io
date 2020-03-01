@@ -2,7 +2,7 @@
 layout: post
 title: "Django模型中关于blank与null的补充说明"
 date: 2019-01-11 18:26:40
-category: 'essays'
+
 tags:
 - Django
 ---

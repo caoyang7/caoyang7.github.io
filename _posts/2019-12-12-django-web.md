@@ -2,7 +2,7 @@
 layout: post    
 title: "Web开发介绍和Django简介"    
 date: 2019-12-12 18:26:40    
-category: 'notes'    
+    
 tags:    
 - Python    
 - Django    

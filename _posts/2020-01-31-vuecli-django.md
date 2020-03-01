@@ -2,7 +2,7 @@
 layout: post
 title: "vue-cli搭配django快速开发及使用"
 date: 2020-01-31 18:26:40
-category: 'notes'
+
 tags:
 - Python
 - Django

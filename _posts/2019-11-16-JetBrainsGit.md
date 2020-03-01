@@ -2,7 +2,7 @@
 layout: post  
 title: "JetBrains公司软件版本控制"  
 date: 2019-11-16 10:26:40  
-category: 'notes'  
+  
 tags:  
 - 工具  
 - Git  

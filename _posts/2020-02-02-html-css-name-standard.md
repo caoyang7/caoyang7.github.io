@@ -2,7 +2,7 @@
 layout: post
 title: "HTML，CSS的class与id命名规则"
 date: 2020-02-02 18:26:40
-category: 'essays'
+
 tags:
 - 前端
 - 规范

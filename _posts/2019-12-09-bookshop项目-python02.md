@@ -2,7 +2,7 @@
 layout: post
 title: "Django项目开发流程 bookshop"
 date: 2019-12-09 18:26:40
-category: 'notes'
+
 tags:
 - Python
 - 项目
