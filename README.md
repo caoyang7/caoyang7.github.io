@@ -25,7 +25,7 @@
 
 `_config.yml` 配置文件，写个人信息的
 
-`index.html` 首页布局 
+`index.html` 首页布局，音乐
 
 
 
