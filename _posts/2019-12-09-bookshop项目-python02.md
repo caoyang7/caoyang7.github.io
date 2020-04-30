@@ -229,6 +229,10 @@ python-alipay-sdk==1.10.1
 ```
 
 ### 扒花钱的网站(所见即所得)
+[前端书城模板下载地址](http://v.bootstrapmb.com/2018/7/rlrum1631/)
+
+[自己找的前端书城模板地址](http://demo.devitems.com/koparion-v2/koparion/index.html)
+
 1. 右键查看框架源代码,全选复制  
 2. 新建一个文件夹,在文件夹里新建一个index.html文件,粘贴  
 3. 查看所有js和css的链接,`ctrl+s`全保存下来  
