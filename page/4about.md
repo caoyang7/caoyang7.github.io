@@ -12,6 +12,8 @@ type: page
 ## 关于我
 
 ![My helpful screenshot](/assets/tupian.jpg)
+![My helpful screenshot](/assets/tupian1.jpg)
+![My helpful screenshot](/assets/tupian2.jpg)
 
 ## 联系我
 
